@@ -84,8 +84,11 @@ mvn clean install
 
 ### Executar os testes:
 ```sh
-Executar os testes:
+mvn test
 ```
+
+
+
 
 ___
 
